@@ -6,7 +6,7 @@
 body{
     width: 100vw;
     height: 100vh;
-    background-image: url(imgs/BG-2.png);
+    background-image: url(imgs/image1.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -54,7 +54,7 @@ h1{
 .github{
     width: 150px;
     height: 40px;
-    background-color: #fffaf0;
+    background-color: #f1f0ff;
     border-style: none;
     border-radius: 5px;
     cursor: pointer;
